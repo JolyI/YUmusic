@@ -1,7 +1,7 @@
 <template>
   <div class="m-herder">
     <div class="icon"></div>
-    <h1 class="text">Mirchen Music</h1>
+    <h1 class="text">Music</h1>
     <div class="mine">
       <i class="icon-mine"></i>
     </div>
